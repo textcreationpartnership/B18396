@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King's authority. At the Angel and Ball, within 3 doors of St. Clements-Church in the Strand, just over against the spectacle shop, near Temple-Bar, liveth the famous and experienced High-German doctor ...</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18396</idno><idno type="EEBO-CITATION">99888680</idno>
+  <idno type="VID">195888</idno>
+  <idno type="EEBO-PROQUEST">2240903644</idno>
+  
+            <idno type="STC">Wing B6363E</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[83]</idno>
+            <idno type="STC">ESTC R231534</idno>
+            <idno type="STC">ESTC R231458</idno>
+            <idno type="STC">ESTC R231534</idno>
+            <idno type="PROQUEST">ocm99888680</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888680e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18396)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195888)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[84])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King's authority. At the Angel and Ball, within 3 doors of St. Clements-Church in the Strand, just over against the spectacle shop, near Temple-Bar, liveth the famous and experienced High-German doctor ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1695 and 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Wing gives publication dates 1695-1700, with two settings.</note>
+                  <note>Title taken from caption and first lines of text.</note>
+                  <note>With a small woodcut illustration of an angel.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Sexually transmitted diseases --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_doctor">
+            <pb facs="tcp:195888:1"/>
+            <head>
+               <hi>By the KING</hi>'s <hi>Authority.</hi>
+            </head>
+            <p>AT the <hi>Angel</hi> and <hi>Ball,</hi> within 3 Doors of St. <hi>Cle<g ref="char:EOLhyphen"/>ment's-Church</hi> in the <hi>Strand,</hi> near <hi>Temple-Bar.</hi> Liveth the Famous and Experienced <hi>High-German</hi> Doctor, who by his great Study, and constant Pra<g ref="char:EOLhyphen"/>ctice
+<figure>
+                  <figDesc>an angel</figDesc>
+               </figure> in several Parts of the World, as well in Princes Courts, as in Hospitals, and Warlike Expeditions, hath ob<g ref="char:EOLhyphen"/>tained such a Physical Method, as to Cure all External and Internal Distempers, (if Cura<g ref="char:EOLhyphen"/>ble:) and a great many he has Cured, when left off by others as Incura<g ref="char:EOLhyphen"/>ble; as he can shew by Testimonials, not only from Emperors, Kings, Dukes, and Electoral Princes, but also from the Right Honourable the Lord Mayor of <hi>London,</hi> with the Court of Aldermen. Also from the Right Worshipful Mayor and Aldermen of the Cities of <hi>Bristol, Worcester,</hi> and <hi>Hertford,</hi> &amp;c. and many other Cities and Corporations in this Kingdom, certifying the great, many, speedy, and wonderful Cures he has undertaken, and by God's Blessing most hap<g ref="char:EOLhyphen"/>pily performed.</p>
+            <p>He most dextero<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sly Couches <hi>Cataracts,</hi> resto<g ref="char:EOLhyphen"/>ring he Patient to Sight in a minute, and perfects the Cure in seven or eight Days time, tho' they have been Blind nine, twelve, or fifteen Years; as many Hunders beyond sea, and here in <hi>England</hi> have Experienced.</p>
+            <p>He also Cures to Admiration, in a short time, <hi>Obstructions, Suffusions,</hi> Dimness, or Darkness in the Eyes, all Pinns, Webbs, and Skins of all kinds, growing, or settled on them: Also Redness, Hot<g ref="char:EOLhyphen"/>ness, or Running of the Eyes, or any other Di<g ref="char:EOLhyphen"/>stemper incident to them.</p>
+            <p>If any be troubled with the Stone in the Kid<g ref="char:EOLhyphen"/>neys or Bladder, he Cureth the same either by Cut<g ref="char:EOLhyphen"/>ting, or most commonly without Cutting; by breaking the Stone in the Bladder, with ease and safety; by Medicines prepared according to the Constitution and Habit of the Patient's Body, by God's help, in a short time, and gives ease in a few hours. He can also take the Stone out of the Blad<g ref="char:EOLhyphen"/>der of Women or Maids, without Cutting, <hi>per Dilatationem.</hi>
+            </p>
+            <p>He has, through long Experience, and with great Success found out certain, and almost never-sailing Remedies, for all sorts of Ruptures or broken Bel<g ref="char:EOLhyphen"/>lies in Men, Women, or Children, either at the Navel or the Groin; and tho' of twenty or thirty Years continuance, or more: Or, if they have been Born so, and as great as a Man's Head: Curing them in a very short time, without any hinderance t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Business; and so secure, that they shall ne<g ref="char:EOLhyphen"/>ver fear a Relapse. He also directeth all sorts of Trusses, so easie, the like was never seen. Of these Ruptures are found seven sorts; <hi>Hernia Intestina<g ref="char:EOLhyphen"/>lis, Ventosa, Varicosa, Aquosa, Carnosa, Humoralis, Exomphalis:</hi> All these this Famous Doctor can help in a short time, either by Manual Operation, or without, as he finds the Patient.</p>
+            <p>He Cureth Artificially all Distempers in Men or Women, as Vapours, Giddiness or Swimming of the Head, or any Fainting Fits, Noise of the Head, Deafness, Tooth-ach, or painful hollow Teeth; takes all Scorbutick Humours out of the Gums, whitens black, and fastens loose Teeth.</p>
+            <p>Also the Scurvey, Rheumatism, Dropsie, Yellow-Jaundies, Cold and Phlegmatick Stomachs, Windy and tedious Coughs, Spitting of Blood, Phthisick, Consumption, Stoppage of the Liver, Hardness of the Spleen, Overflowing of the Gall, Melancholy, Madness, Small-Pox, Agues, Fevers, Pleurisies, Wind and Colick, Worms in Children or Old Peo<g ref="char:EOLhyphen"/>ple; all Pains or Aches of the Limbs, or any <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art af the Body; Lameness, Shrinking or Contraction of the Nerves or Sinews: Bloody-Flux, Stoppage of the Urine, or such as cannot hold their Water, or Pains in making Water, voiding of Blood, painful Piles or Hemorrhoids in the Fundament, Ulcers in the Womb or Bladder, and many other Distempers which no Physician can give Name to: He hath Cured such, when given over by others as In<g ref="char:EOLhyphen"/>curable.</p>
+            <p>He also Cures Hare-Lips in 6 Days, Wry-Necks, all sorts of Ulcers, great Wens, Cancers in the Lips, Tongue, or Breast; Rickets in Children, Crooked-Legs, Fistulas either in Arms, Legs, Eyes, <hi>&amp;c.</hi> in a short time.</p>
+            <p>This Doctor has a great Secret for Curing of the King's-Evil, and Falling-sickness, in Men, Women, and Children, if they have been troubled with it ten or twenty Years; so that they shall not be trou<g ref="char:EOLhyphen"/>bled with it again all their Life-time.</p>
+            <p>He likewise Cureth Women and Mai<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of many Infirmities: As, the Green-Sickness, Stoppage, or Overflowing of the Courses of Nature. He also helps the Whites, and Weakness of the Lack, and
+<pb facs="tcp:195888:2"/>other Distempers of Women. He hath a great Secret to help Conception; likewise a powerful Re<g ref="char:EOLhyphen"/>medy to prevent Miscarriage, altho' they have Miscarried five or six times successively.</p>
+            <p>He Cureth in an Extraordinary and most easie manner, after a new and safe Method, without either Fluxing, or any danger at all, in as short time as can be expected, the <hi>Morbus Gallicus,</hi> or the <hi>French.</hi> POX, with all its Symptoms, (as the <hi>Gonorrhoea,</hi> or Running of the Reins, Shankers, Bu<g ref="char:EOLhyphen"/>boes, or Swellings in the Groin, Pain in the Head, Arms, Shoulders, and Legs; or Ulcers in the Mouth or Throat; Scabs, Itch, and Breaking out over the whole Body:) As very many can testi<g ref="char:EOLhyphen"/>fie, who have had it several Years, and have been Flux'd several times, and almost Spoiled by Others, and given over as Incurable; and yet by him have perfectly been Cured.</p>
+            <p>But for those who have met with a CLAP, or Running of the Reins, he Promises to Cure them in seven or eight days time; not by Astringents, but by Rooting out the Malignity, and by gentle means, as abundance of both Sexes can Witness, or else desires nothing for his pains: Which is as much as to say, NO CURE, NO MONEY.</p>
+            <p>He would have no Person despair, by reason of the long Continuance of their Distemder, nor neglect this Spring, (it being the best time of the Year) but let them bring their Urine, (&amp; especially that made after Midnight) and he will give his Judg<g ref="char:EOLhyphen"/>ment, in Resolving them whether their Diseases be Curable or not: If Curable, he will perform them at a Reasonable Rate: If not, he tells them so, that they be not abused by false Pretenders.</p>
+            <div type="testimonials">
+               <head>For the Satisfaction of the Curious, shall be inserted only some few Notable <hi>CURES</hi> (out of many hun<g ref="char:EOLhyphen"/>dreds might be mention'd) which have been wrought by this Famous <hi>High-German</hi> Doctor lately.</head>
+               <p>HE Cured Mr. <hi>William Saint-John,</hi> Son of Sir <hi>Walter Saint-John</hi> of <hi>Ba<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tersea,</hi> of a most violent Bloody-Flux and Consumption, after he had been in the hands of the mostable Physicians in and about <hi>London</hi> near two Years, and given over by them as Incurable, was Cured by him in eight Weeks time: Also several more of that Noble Family have been Cured by him.</p>
+               <p>Mr. <hi>Simmons,</hi> living with Sir <hi>William Forrester</hi> at <hi>Whitehall,</hi> was troubled for a long time with a <hi>Her<g ref="char:EOLhyphen"/>nia Aquosa,</hi> or watry Rupture, and was in the hands of several eminent Physicians in order to his Cure; but instead thereof, grew worse and worse; yet was Cured by him in a Fortnights time.</p>
+               <p>
+                  <hi>John Barns,</hi> living in the Upper Ground, over <hi>Bodies-Bridge</hi> in <hi>Southwark,</hi> 48 Years of Age, was Bursten 16 Years; and many which pretended to be great Artists had undertaken him, said at last that he could never be Cured without Cutting, because the Rupture was grown as big as a Man's Head; yet he was Cured by him in eight Week time, without Cutting.</p>
+               <p>Mr. <hi>John Guy</hi> in upper <hi>Deptford,</hi> was very ill for a long time, with an Asthma and Phthisick, or shortness of Breath, and a wasting over the whole Body, and in a very dangerous Condition; yet by the blessing of God, he was perfectly Cured in the space of between five and six Weeks.</p>
+               <p>He Cured Mr. <hi>James Hould,</hi> living in <hi>Cradle Court</hi> in <hi>Aldersgate-street,</hi> of a great and dangerou<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Rupture, or <hi>Hernia-Intestinalis,</hi> was Cur'd in the space of between 8 and 9 Weeks, without Cutting.</p>
+               <p>Mr. <hi>George Brown,</hi> in <hi>Shorts-Garden,</hi> at St. <hi>Giles</hi>'s,<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Serjeant in Col. <hi>Rivers</hi>'s Company, was extreamly troubled with the Kings-Evil in his Throat, and Cheek, and so Ulcer'd, that you could see thro' hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Mouth and Throat; and several Kernels Ulcerated and swell'd up, and look'd like a Cancer, and al<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> his Body was wasted to a meer Skelleton, after h<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> had been with several other Physicians, without any help, was Cur'd by this Doctor in between four o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> five Weeks, and hath continued ever since in per<g ref="char:EOLhyphen"/>fect Health.</p>
+               <p>
+                  <hi>Frances Moore,</hi> at Madam <hi>Priests</hi> Boarding-Schoo<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> at <hi>Chelsea,</hi> Aged above 87, was near three Year Blind, was restored to her sight in a minutes time and perfectly Cured in 10 Days.</p>
+               <p>He Cured Mr. <hi>Thomas Webb,</hi> at the <hi>Black-Sw<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> in <hi>Viller</hi>'s-<hi>street</hi> in <hi>York-Buildings,</hi> of a most viole<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <hi>Diarrhoea,</hi> or Flux and Phthisick, which brought hi<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> in a very weak and dangerous Condition, yet w<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Cured by him in a short time. He also Cur'd t<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> said Mr. <hi>Webb</hi>'s Wife, after she had had an Ulcer Cancer in her Breast above 15 Years: He dext rously cut off her Cancer'd Breast, and Cur'd he by the blessing of God, within 8 Weeks.</p>
+               <p>And many more of all manner of Distempe<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> might be inserted, but we have not room.</p>
+            </div>
+         </div>
+         <div type="location_and_hours_and_of_operation">
+            <p>
+               <hi>This Famous</hi> High-German <hi>Doctor is now for the Publick Good, settled in the</hi> Strand, <hi>at his House at<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Angel <hi>and</hi> Ball, <hi>between</hi> Temple-Bar <hi>and St.</hi> Clements-Church; <hi>over against the Spectacle and Watch-<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ker's Shops, the third Door from St.</hi> Clements-Church, <hi>on the same side of the way, where the Pictures Patients and Manual Operations are over the Door:</hi> And is to be Spoken with from Eight in<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Morning, till Twelve, and from Two, till Nine at Night.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
